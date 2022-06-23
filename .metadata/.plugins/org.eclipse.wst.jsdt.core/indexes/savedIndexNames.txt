@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\dibak\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2690993717.index
+485642199.index
+3557006337.index
+545921060.index
+2575672415.index
+3052211161.index
